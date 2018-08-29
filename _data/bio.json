@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jiaying Feng",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://JiayingFeng.github.io/images/IMG_3478.JPG",
+    "email": "jiayingf@hawaii.edu",
+    "phone": " ",
+    "website": "https://JiayingFeng.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
+      "address": " ",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,36 +17,27 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "JiayingFeng",
+        "url": "http://github.com/JiayingFeng"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jiaying Feng",
+        "url": "http://linkedin.com/in/jiaying-feng-b3133016a/"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
+     
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Javascript",
       "keywords": [
       ]
     },
