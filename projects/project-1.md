@@ -12,7 +12,9 @@ labels:
   - Game
 summary: This is the first java project that I did with my group for the final presentation of my ICS 111 class. It means a lot to me since it is the representation of my learning progress in computer science field. 
 ---
+<div class = "ui small rounded images">
 <img class="ui medium right floated rounded image" src="../image/game.png">
+</div>
 
 This is the first game that I developed with my group members for the ICS 111. Before take this class, I never have any experience in computer science field. It was a challenge for me to write code and to learn about java. This game is about control two characters to collect candies and the character that collect most candies is the winner. 
 
