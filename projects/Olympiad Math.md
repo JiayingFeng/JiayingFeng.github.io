@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/olympiadMath.png
-title: Olympiad Math
+title: Olympiad Math 
 permalink: projects/Olympiad math
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
