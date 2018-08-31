@@ -2,13 +2,13 @@
   "basics": {
     "name": "Jiaying Feng",
     "label": "Student",
-    "picture": "https://JiayingFeng.github.io/images/IMG_3478.JPG",
+    "picture": "https://jiayingfeng.github.io/images/IMG_3478.JPG",
     "email": "jiayingf@hawaii.edu",
-    "phone": " ",
-    "website": "https://JiayingFeng.github.io",
+    "phone": "",
+    "website": "https://jiayingfeng.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": " ",
+      "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
