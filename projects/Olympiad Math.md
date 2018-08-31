@@ -5,7 +5,7 @@ image: images/olympiadMath.png
 title: Olympiad Math 
 permalink: projects/Olympiad math
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2018-08-30 
 labels:
   - Olympiad math team
   - High school
