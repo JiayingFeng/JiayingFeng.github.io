@@ -5,7 +5,7 @@ image: images/game.png
 title: First final project for computer science
 permalink: projects/project-1
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-030
+date: 2018-08-30
 labels:
   - Computer science
   - Java
