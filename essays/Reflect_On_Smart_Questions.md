@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflect_on_javascript_1
+title: Reflect_On_Smart_Questions
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
