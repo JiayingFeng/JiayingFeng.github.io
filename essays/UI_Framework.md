@@ -1,0 +1,21 @@
+---
+layout: essay
+type: essay
+title: UI_Framework
+# All dates must be YYYY-MM-DD format!
+date: 2018-08-31
+labels:
+  - Software Engineering
+  - Learning
+  - Web development
+  - Semantic UI
+---
+
+   
+   In the past few weeks, we learned about the UI design. UI design is bascially to design a webpage by using html and css classes. Last week, I first interacted with this new java language, UI. It is fun to learn because it is easier than the other languages that we learned before. We learned the basic format of UI from freecamp and practiced the basic UI by working on the three WODS of browser history.
+    
+    
+    This week, we learned more about UI by using Semantic UI. Semantic UI is a framework that help the web desginers and developers to create websites. It is really useful because it gives us a guide to develop the web page. I don't think it is unnecessary to use something like Semantic UI because it does not only provide structure of the website but also to guide us to write the code with many techinques. 
+    
+    
+   The investment of time and frustration that we put into the work of Semantic UI gained us knowledges of web developement and technqiues that we can use to write our code. It provides example of the different components and createsa guide to develop the website.
