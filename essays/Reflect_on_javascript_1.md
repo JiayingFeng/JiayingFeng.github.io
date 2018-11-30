@@ -20,3 +20,5 @@ labels:
    In the past two weeks, I practiced javascript by WODS. I think it is really helpful for me to understand the language and also practice it. WODS is an activity that helps us to develop the ability of thinking and also to build the problem solving skill. I think it is a good way for us to learn Javascript.
 
 
+text
+
